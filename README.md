@@ -51,8 +51,9 @@ Execute o programa:
 
 bash
 python estoque.py
+
 📝 Menu Principal
-text
+
 ==================================================
 SISTEMA DE CONTROLE DE ESTOQUE
 ==================================================
@@ -60,6 +61,7 @@ SISTEMA DE CONTROLE DE ESTOQUE
 2 - Realizar movimentação
 3 - Mostrar histórico de movimentações
 4 - Sair
+
 🔄 Fluxo de Movimentação
 Selecione a opção 2 - Realizar movimentação
 
